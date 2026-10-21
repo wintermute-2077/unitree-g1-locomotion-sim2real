@@ -44,15 +44,15 @@ Aside from a nice rendering of the robot, you should see three artifacts at: log
 
 ## Results
 
-###Training Velocity Error
+### Training Velocity Error
 ![Training Velocity Error](photos/velocity_error.png)
 
-###Training Loss Entropy 
+### Training Loss Entropy 
 ![Training Loss Entropy](photos/loss_entropy.png)
 
-###Training Loss Value
-![Training Loss Value](photos/reward_curve.png)
+### Training Loss Value
+![Training Loss Value](photos/training_loss_value.png)
 
-###Training Policy Standard Deviation
+### Training Policy Standard Deviation
 ![Training Policy Standard Deviation](photos/policy_std.png)
 
