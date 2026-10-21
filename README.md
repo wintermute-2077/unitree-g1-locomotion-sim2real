@@ -51,7 +51,7 @@ Aside from a nice rendering of the robot, you should see three artifacts at: log
 ![Training Loss Entropy](photos/loss_entropy.png)
 
 ### Training Loss Value
-![Training Loss Value](photos/training_loss_value.png)
+![Training Loss Value](photos/loss_value.png)
 
 ### Training Policy Standard Deviation
 ![Training Policy Standard Deviation](photos/policy_std.png)
